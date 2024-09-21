@@ -1,0 +1,12 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+/build
+/app/build
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
