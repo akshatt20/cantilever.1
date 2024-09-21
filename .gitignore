@@ -2,8 +2,11 @@
 .idea/
 *.iml
 .gradle/
-/build
-/app/build
+build/
+app/build/
+
+# Exclude logs and unnecessary files
+*.log
 
 # Kotlin/Java
 *.class
